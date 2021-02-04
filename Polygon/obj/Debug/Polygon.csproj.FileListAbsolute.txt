@@ -1,0 +1,10 @@
+C:\Users\formidable\Source\Repos\Polygon\Polygon\bin\Debug\Polygon.exe.config
+C:\Users\formidable\Source\Repos\Polygon\Polygon\bin\Debug\Polygon.exe
+C:\Users\formidable\Source\Repos\Polygon\Polygon\bin\Debug\Polygon.pdb
+C:\Users\formidable\Source\Repos\Polygon\Polygon\obj\Debug\Polygon.csprojAssemblyReference.cache
+C:\Users\formidable\Source\Repos\Polygon\Polygon\obj\Debug\Polygon.mainForm.resources
+C:\Users\formidable\Source\Repos\Polygon\Polygon\obj\Debug\Polygon.Properties.Resources.resources
+C:\Users\formidable\Source\Repos\Polygon\Polygon\obj\Debug\Polygon.csproj.GenerateResource.cache
+C:\Users\formidable\Source\Repos\Polygon\Polygon\obj\Debug\Polygon.csproj.CoreCompileInputs.cache
+C:\Users\formidable\Source\Repos\Polygon\Polygon\obj\Debug\Polygon.exe
+C:\Users\formidable\Source\Repos\Polygon\Polygon\obj\Debug\Polygon.pdb
